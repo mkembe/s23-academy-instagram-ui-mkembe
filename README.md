@@ -10,5 +10,5 @@ Instagram UI Post Features:
 - Post Date
 - Like, Bookmark, Message, and Comment Icons
 
-![picture](https://github.com/appteamcarolina/s23-academy-p02-weather-mkembe/blob/main/igss.png?raw=true)
+![picture](https://github.com/appteamcarolina/s23-academy-dem02-instagram-mkembe/blob/main/igss.png?raw=true)
 
