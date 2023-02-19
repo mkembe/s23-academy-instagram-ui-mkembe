@@ -4,7 +4,7 @@ s23-academy-dem02-instagram-mkembe created by GitHub Classroom
 UI Design for Instagram Post
 
 Instagram UI Post Features:
-= Post Image
+- Post Image
 - Username and User Profile Photo
 - Post Caption
 - Post Date
